@@ -19,7 +19,8 @@ Compile with:
 
 ```sh
 gcc -o todo todo.c
-
+```
 Run:
 ```sh
 ./todo
+```
